@@ -4,7 +4,7 @@
 
 <div style="margin-block: 64px;">
 
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="320"/>
+  <img title="boy coding" alt="gif" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="320"/>
 </div>
 
 
@@ -82,6 +82,8 @@
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=brunomoleta)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brunomoleta)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
 
 <hr style="border-top: 3px solid #bbb;">
 
