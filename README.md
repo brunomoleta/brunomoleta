@@ -13,7 +13,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-moleta-santos-desenvolvedor-full-stack)
 [![Portfolio](https://img.shields.io/static/v1?label=&message=Portfolio&color=gray&style=for-the-badge&logo=&logoColor=white)](https://easybank-investments.vercel.app/)
 [![Frontend Mentor](https://img.shields.io/badge/Frontend%20Mentor-%20-white?style=for-the-badge&logo=frontendmentor&labelColor=red&logoColor=white)](https://www.frontendmentor.io/profile/brunomoleta)
-<img src="https://komarev.com/ghpvc/?username=brunomoleta&style=flat-square&color=blue" alt=""/>
+[![brunomoleta@pm.me](https://img.shields.io/badge/brunomoleta%40pm.me-%20-white?style=for-the-badge&logo=protonmail&labelColor=800080&logoColor=white)](https://protonmail.com/)
 
 </div>
 
@@ -27,9 +27,8 @@
   high UI design quality;
 
 - 🌱 Currently learning Test driven development;
-- 📫 How to reach
-  him: [![brunomoleta@pm.me](https://img.shields.io/badge/brunomoleta%40pm.me-%20-white?style=for-the-badge&logo=protonmail&labelColor=800080&logoColor=white)](https://protonmail.com/)
-- ⚡ Fun fact: He's learning to hand stand(in portugues we called it "plantar bananeira");
+  him: 
+- ⚡ Fun fact: He's learning to hand stand;
 - 💬 We can talk either in English, Portuguese or Spanish (or even French or Italian if you talk slowly);
 
 <hr style="border-top: 3px solid #bbb;">
