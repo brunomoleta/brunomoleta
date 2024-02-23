@@ -2,9 +2,9 @@
 
 <hr style="border-top: 3px solid #bbb;">
 
-<div style="margin-block: 64px;">
+<div style="margin-block: 80px;">
 
-  <img title="boy coding" alt="gif" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="320"/>
+  <img title="boy coding" alt="gif" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="240"/>
 </div>
 
 
@@ -38,7 +38,7 @@
 
 ### Front-end
 
-<div style="display: flex; flex-wrap: wrap; gap: 24px; margin-block: 40px 40px">
+<div style="display: flex; align-items: center; flex-wrap: wrap; gap: 24px; margin-block: 40px 40px">
 
 <img alt="typescript" title="typescript" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
 <img alt="react.js" title="react.js" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
@@ -50,7 +50,7 @@
 
 ### Back-end
 
-<div style="display: flex; flex-wrap: wrap; gap: 24px;">
+<div style="display: flex; align-items: center; flex-wrap: wrap; gap: 24px;">
 
 <img alt="postgreSQL" title="postgreSQL" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
 <img alt="nest.js" title="nest.js" width="120" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original-wordmark.svg" />
@@ -65,7 +65,7 @@
 
 ### Local
 
-<div style="display: flex; flex-wrap: wrap; gap: 24px; margin-block: 32px 32px">
+<div style="display: flex; align-items: center; flex-wrap: wrap; gap: 24px; margin-block: 32px 32px">
 
 <img alt="postman" title="postman" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-plain.svg" />
 <img alt="web storm" title="web storm" width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/webstorm/webstorm-plain.svg" />
