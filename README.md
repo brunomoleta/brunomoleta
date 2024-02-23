@@ -21,10 +21,11 @@
 
 ## 👨🏽‍💻 About Bruno:
 
-🔭 He's a Full Stack developer from Curitiba/PR - Brazil;
+- 🔭 He's a Full Stack developer from Curitiba/PR - Brazil;
 
-- 👯 Looking to collaborate on javascript full stack projects
+- 👯 Looking to collaborate on Javascript full stack projects
   high UI design quality;
+
 - 🌱 Currently learning Test driven development;
 - 📫 How to reach
   him: [![brunomoleta@pm.me](https://img.shields.io/badge/brunomoleta%40pm.me-%20-white?style=for-the-badge&logo=protonmail&labelColor=800080&logoColor=white)](https://protonmail.com/)
@@ -62,12 +63,21 @@
 
 ## ⚙️Tools
 
+### Local
+
 <div style="display: flex; flex-wrap: wrap; gap: 24px; margin-block: 32px 32px">
 
 <img alt="postman" title="postman" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-plain.svg" />
 <img alt="web storm" title="web storm" width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/webstorm/webstorm-plain.svg" />
-<img alt="title" title="git" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain-wordmark.svg" />
 <img alt="dbeaver" title="dbeaver" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dbeaver/dbeaver-original.svg" />
+
+</div>
+
+### Server
+
+<div style="display: flex; flex-wrap: wrap; gap: 24px; margin-block: 32px 32px">
+
+<img alt="title" title="git" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain-wordmark.svg" />
 <img alt="Swagger doc" title="Swagger doc" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original.svg" />
 
 </div>
@@ -89,7 +99,7 @@
 
 ## Favorite quote
 
-- <em> Turbulence doesn't crash planes.</em>
+- <em> A turbulence won't crash our plane.</em>
 
 <hr style="border-top: 3px solid #bbb;">
 
