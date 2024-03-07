@@ -76,7 +76,7 @@
 
 <div style="display: flex; flex-wrap: wrap; gap: 24px; margin-block: 32px 32px">
 
-<img alt="title" title="git" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain-wordmark.svg" />
+<img alt="git" title="git" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain-wordmark.svg" />
 <img alt="Swagger doc" title="Swagger doc" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original.svg" />
 
 </div>
