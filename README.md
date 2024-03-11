@@ -11,7 +11,7 @@
 <div style="display: flex; flex-wrap: wrap">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-moleta-santos-desenvolvedor-full-stack)
-[![Portfolio](https://img.shields.io/static/v1?label=&message=Portfolio&color=gray&style=for-the-badge&logo=&logoColor=white)](https://easybank-investments.vercel.app/)
+[![Portfolio](https://img.shields.io/static/v1?label=&message=Portfolio&color=gray&style=for-the-badge&logo=&logoColor=white)](https://bruno-moleta.vercel.app/)
 [![Frontend Mentor](https://img.shields.io/badge/Frontend%20Mentor-%20-white?style=for-the-badge&logo=frontendmentor&labelColor=red&logoColor=white)](https://www.frontendmentor.io/profile/brunomoleta)
 [![brunomoleta@pm.me](https://img.shields.io/badge/brunomoleta%40pm.me-%20-white?style=for-the-badge&logo=protonmail&labelColor=800080&logoColor=white)](https://protonmail.com/)
 
